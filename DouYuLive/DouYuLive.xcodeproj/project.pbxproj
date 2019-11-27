@@ -15,6 +15,7 @@
 		95ED9F8D238E5A4F00BA2B02 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95ED9F8B238E5A4F00BA2B02 /* LaunchScreen.storyboard */; };
 		95ED9F98238E5A4F00BA2B02 /* DouYuLiveTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95ED9F97238E5A4F00BA2B02 /* DouYuLiveTests.swift */; };
 		95ED9FA3238E5A4F00BA2B02 /* DouYuLiveUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95ED9FA2238E5A4F00BA2B02 /* DouYuLiveUITests.swift */; };
+		95ED9FB1238E6A4F00BA2B02 /* Classes in Resources */ = {isa = PBXBuildFile; fileRef = 95ED9FB0238E6A4F00BA2B02 /* Classes */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		95ED9F9E238E5A4F00BA2B02 /* DouYuLiveUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DouYuLiveUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		95ED9FA2238E5A4F00BA2B02 /* DouYuLiveUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DouYuLiveUITests.swift; sourceTree = "<group>"; };
 		95ED9FA4238E5A4F00BA2B02 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		95ED9FB0238E6A4F00BA2B02 /* Classes */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Classes; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		95ED9F7F238E5A4C00BA2B02 /* DouYuLive */ = {
 			isa = PBXGroup;
 			children = (
+				95ED9FB0238E6A4F00BA2B02 /* Classes */,
 				95ED9F80238E5A4C00BA2B02 /* AppDelegate.swift */,
 				95ED9F82238E5A4C00BA2B02 /* SceneDelegate.swift */,
 				95ED9F84238E5A4C00BA2B02 /* ViewController.swift */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				95ED9F8D238E5A4F00BA2B02 /* LaunchScreen.storyboard in Resources */,
+				95ED9FB1238E6A4F00BA2B02 /* Classes in Resources */,
 				95ED9F8A238E5A4F00BA2B02 /* Assets.xcassets in Resources */,
 				95ED9F88238E5A4C00BA2B02 /* Main.storyboard in Resources */,
 			);
